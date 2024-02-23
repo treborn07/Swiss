@@ -1,6 +1,9 @@
 # Swiss
 # Projeto de Chatbot e Ferramentas de Rede
 
+#ABRA COM SUPER USUÁRIO!
+
+
 Este é um projeto Python que consiste em dois arquivos: `chatbot.py` e `ferramentas_rede.py`. O `chatbot.py` implementa um chatbot simples que pode interagir com os usuários, enquanto o `ferramentas_rede.py` fornece várias funcionalidades relacionadas à rede, como localizar IP, encontrar o nome de host associado a um IP, verificar portas abertas, listar clientes conectados à rede Wi-Fi, entre outros.
 
 ## Requisitos
