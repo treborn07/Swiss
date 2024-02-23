@@ -23,7 +23,7 @@ digite pip3 install instale as bibliotecas acima para o script funcionar perfeit
 eles devem estar no mesmo diretório tanto o Wiss.py como o ia.py, ou seja na mesma pasta, mas fique tranquilo que você também pode alterar isso no código.
 
 ## Como usar
-Abra com python3 wx: python3 Wiss.py
+Abra com python3 ex: python3 Wiss.py
 ### Chatbot
 
 Para usar o chatbot, execute o arquivo `chatbot.py`. Ele iniciará uma interação onde você pode conversar com o chatbot.
