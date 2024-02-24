@@ -29,11 +29,11 @@ eles devem estar no mesmo diretório tanto o Wiss.py como o ia.py, ou seja na me
 Abra com python3 ex: python3 Wiss.py
 ### Chatbot
 
-Para usar o chatbot, execute o arquivo `chatbot.py`. Ele iniciará uma interação onde você pode conversar com o chatbot.
+Para usar o chatbot, execute o arquivo `ia.py`. Ele iniciará uma interação onde você pode conversar com o chatbot.
 
 ### Ferramentas de Rede
 
-Para usar as ferramentas de rede, execute o arquivo `ferramentas_rede.py`. Ele exibirá um menu com várias opções relacionadas à rede, como localizar IP, encontrar o nome de host associado a um IP, verificar portas abertas, listar clientes conectados à rede Wi-Fi, entre outros. Siga as instruções no menu para utilizar as diferentes funcionalidades.
+Para usar as ferramentas de rede, execute o arquivo `Wiss.py`. Ele exibirá um menu com várias opções relacionadas à rede, como localizar IP, encontrar o nome de host associado a um IP, verificar portas abertas, listar clientes conectados à rede Wi-Fi, entre outros. Siga as instruções no menu para utilizar as diferentes funcionalidades.
 
 ## Contribuição
 
